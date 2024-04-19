@@ -1,4 +1,6 @@
- 
+# Kohya Trainer:fork date 2024/04/19
+只有更新 kohya-LoRA-finetuner.ipynb 修正1.1 與 2.3 animevae.pt 連結
+ ___
 # Kohya Trainer: End of Journey (23/03/2024)
 ### Sorry, but this is the end. Colab is dead, and we killed it. Thank you for using Kohya Trainer since the first time it launched. I really appreciate it. This repository will be resting until I have time to maintain it again. Actually, the problem is not time, but rather that I haven't been using Colab for a year now after migrating to other Cloud GPU Service. The reason is clear: library compatibility issues with every update have made it exhausting to maintain. Also, some of my notebooks have been blacklisted for free-tier users, even though I got nothing.
 
