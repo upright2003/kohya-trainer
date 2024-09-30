@@ -11,12 +11,12 @@
 ** https://github.com/Linaqruf/kohya-trainer
 
  ___
-# 錯誤重現
+#  Error recurrence 錯誤重現
 https://colab.research.google.com/drive/1MjbK7gNH41WNri3bxtAwIoQZKbcyeLOA?usp=sharing
 
 train_data demo https://drive.google.com/file/d/1HqUzpEeVXxZVzFrlorIfEjDskjSLHKky/view?usp=sharing
 
-## 📊 Dataset Preparation 
+## 📊 Dataset Preparation 資料集準備
 
 Simply place the dataset in the `training_dir` directory with the following file structure:
 
