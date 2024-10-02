@@ -14,9 +14,11 @@
 
  ___
 #  Error recurrence 錯誤重現
-https://colab.research.google.com/drive/1MjbK7gNH41WNri3bxtAwIoQZKbcyeLOA?usp=sharing
+https://colab.research.google.com/drive/1MjbK7gNH41WNri3bxtAwIoQZKbcyeLOA?usp=sharing  2024/10/02 已修正可跑通,需額外使用wd1.4反推並使用 https://github.com/starik222/BooruDatasetTagManager 處理promat 再訓練.
 
-train_data demo https://drive.google.com/file/d/1HqUzpEeVXxZVzFrlorIfEjDskjSLHKky/view?usp=sharing
+train_data demo https://drive.google.com/file/d/1HqUzpEeVXxZVzFrlorIfEjDskjSLHKky/view?usp=sharing  
+
+「kohya-LoRA-finetuner.ipynb」的副本(暫不可用)  https://colab.research.google.com/drive/1zG6CLlNAUvDUHzvgY4hGkQvtdcRBsPiN
 
 ## 📊 Dataset Preparation 資料集準備
 
