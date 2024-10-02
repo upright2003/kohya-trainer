@@ -10,6 +10,8 @@
 
 ** https://github.com/Linaqruf/kohya-trainer
 
+** Colab update list https://colab.research.google.com/notebooks/relnotes.ipynb
+
  ___
 #  Error recurrence 錯誤重現
 https://colab.research.google.com/drive/1MjbK7gNH41WNri3bxtAwIoQZKbcyeLOA?usp=sharing
