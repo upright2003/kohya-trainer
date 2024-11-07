@@ -1,7 +1,7 @@
 # Kohya Trainer:fork date 2024/04/19
 只有更新 kohya-LoRA-finetuner.ipynb 修正1.1 與 2.3 animevae.pt 連結
-已解決2024/09/25之後又出錯誤,已解決4.3步驟問題
-已解決2024/11/06之後又出錯誤,已解決5.5步驟問題，并开Issues 讨论区。
+已解決2024/11/06之後錯誤,已解決4.3 & 5.5步驟問題，并开启Issues 讨论区。
+
 
 ** https://github.com/kohya-ss/sd-scripts
 
