@@ -1,6 +1,7 @@
 # Kohya Trainer:fork date 2024/04/19
 只有更新 kohya-LoRA-finetuner.ipynb 修正1.1 與 2.3 animevae.pt 連結
-自2024/09/25之後又出錯誤,目前無法解決4.3步驟問題
+已解決2024/09/25之後又出錯誤,已解決4.3步驟問題
+已解決2024/11/06之後又出錯誤,已解決5.5步驟問題，并开Issues 讨论区。
 
 ** https://github.com/kohya-ss/sd-scripts
 
@@ -14,7 +15,7 @@
 
  ___
 #  Error recurrence 錯誤重現(暫時解決)
-正式版 kohya-LoRA-finetuner.ipynb」的副本24/10/05 fix ver. https://colab.research.google.com/drive/1SOoYachQhOKgbq3hSmZYu4z36FQdmktO?usp=sharing
+{正式版} kohya-LoRA-finetuner.ipynb」的副本24/11/07 fix ver. https://colab.research.google.com/drive/1SOoYachQhOKgbq3hSmZYu4z36FQdmktO?usp=sharing
 
 精簡版 https://colab.research.google.com/drive/1MjbK7gNH41WNri3bxtAwIoQZKbcyeLOA?usp=sharing  2024/10/02 已修正可跑通,需額外使用wd1.4反推並使用 https://github.com/starik222/BooruDatasetTagManager 處理promat 再訓練.
 
