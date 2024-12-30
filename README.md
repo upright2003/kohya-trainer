@@ -15,7 +15,7 @@
 
  ___
 #  Error recurrence 錯誤重現(暫時解決)
-{正式版} kohya-LoRA-finetuner.ipynb」的副本24/11/07 fix ver. https://colab.research.google.com/drive/1SOoYachQhOKgbq3hSmZYu4z36FQdmktO?usp=sharing
+{正式版} kohya-LoRA-finetuner.ipynb」的副本24/12/30 fix ver. https://colab.research.google.com/drive/1SOoYachQhOKgbq3hSmZYu4z36FQdmktO?usp=sharing
 
 精簡版 https://colab.research.google.com/drive/1MjbK7gNH41WNri3bxtAwIoQZKbcyeLOA?usp=sharing  2024/10/02 已修正可跑通,需額外使用wd1.4反推並使用 https://github.com/starik222/BooruDatasetTagManager 處理promat 再訓練.
 
